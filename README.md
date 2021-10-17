@@ -1,5 +1,5 @@
 # Kafka Consumer
 
-[![Build Status](https://travis-ci.org/ajtechdeveloper/KafkaConsumer.svg?branch=master)](https://travis-ci.org/ajtechdeveloper/KafkaConsumer)
+[![build](https://github.com/ajtechdeveloper/KafkaConsumer/actions/workflows/build.yml/badge.svg)](https://github.com/ajtechdeveloper/KafkaConsumer/actions/workflows/build.yml)
 
 Java Kafka Consumer
